@@ -1,0 +1,1 @@
+{"name":"Local: reverse_arr","url":"c:\\Users\\Shreyash\\OneDrive\\Desktop\\DSA\\reverse_arr.cpp","tests":[{"id":1691046826313,"input":"10 5 7 30","output":"30 7 5 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Shreyash\\OneDrive\\Desktop\\DSA\\reverse_arr.cpp","group":"local","local":true}
